@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0",
+  "message_id": "6f1c2a3e-8b7d-4e21-9a0f-3d5c7b9e1a24",
+  "source": "1c-fitness",
+  "operation": "upsert",
+  "version": 1763450100123,
+  "object_type": "ПродажаАбонемента",
+  "document_id": "b3e9a7c1-52d4-11ef-8a6b-005056a1c2d3",
+  "document_number": "ФК-000123",
+  "document_date": "2026-11-18T10:15:00",
+  "client_id": "9a4d1e20-41aa-11ee-8a6b-005056a1c2d3",
+  "client_name": "Иванова Анна",
+  "amount": 45000,
+  "currency": "KZT",
+  "items": [
+    { "line": 1, "name": "Абонемент «Безлимит 3 мес.»", "quantity": 1, "price": 40000, "amount": 40000 },
+    { "line": 2, "name": "Персональная тренировка", "quantity": 1, "price": 5000, "amount": 5000 }
+  ]
+}
